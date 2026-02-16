@@ -2,3 +2,6 @@ license-helper.md
 
 # licensed book
 *.pdf
+
+# slides
+slides/
