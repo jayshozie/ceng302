@@ -11,7 +11,7 @@ open-source community.**
 
 ## Usage
 
-1. You ccan clone this repository to your local machine using the following
+1. You can clone this repository to your local machine using the following
 command if you have git installed:
 ```bash
 # if you want to use https:
@@ -108,5 +108,4 @@ for as long as I can.
 
 - Course Name: CENG302 - Introduction to Database Management Systems
 - Semester Taken: Spring 2025 (2025/2026)
-- Book: []()
-<!-- TODO: I'll add a link to it when I learn which textbook will be used.-->
+- Book: [Ramakrishnan, R., Database Management Systems 3rd Edition](https://search.worldcat.org/title/49977005)
