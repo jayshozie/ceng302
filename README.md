@@ -57,7 +57,7 @@ repository.
 4. You can view the files directly in your browser.
 
 ## Directory Structure
-**Languages Used:** TBA
+**Languages Used:** SQL
 
 - **[/lecture-notes](./lecture-notes):** These are my lecture notes compiled
 from the stuff the instructor said during lecture hours, the slides provided by
