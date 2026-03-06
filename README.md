@@ -29,7 +29,7 @@ foo@bar:~$ git clone https://github.com/jayshozie/ceng302
 foo@bar:~$ cd ceng302
 foo@bar:~/ceng302$
 ```
-You can find the material in the folder `ceng301` that git just created.
+You can find the material in the folder `ceng302` that git just created.
 </details>
 
 <details>
@@ -41,7 +41,7 @@ C:\Users\foo\Desktop> git clone https://github.com/jayshozie/ceng302
 C:\Users\foo\Desktop> cd ceng302
 C:\Users\foo\Desktop\ceng302>
 ```
-You can find the material in the folder `ceng301` that git just created.
+You can find the material in the folder `ceng302` that git just created.
 </details>
 
 2. If you don't have git installed, or you prefer to download the files, then
